@@ -1,0 +1,20 @@
+Sim 1 - 6 ovens & unlimited tables: 
+
+Total 297 pizza have been sold today.
+The average waiting time for the first pizza is 9 minute(s).
+The max waiting time for the first pizza is 9 minute(s).
+Maximum time a party occupies a table is 29 minute(s).
+Total 124 part(ies) and total 409 guest(s) have been served
+Largest number of parties waiting for a table is 0.
+Total 5 oven(s) have been used.
+
+
+Sim 2 - 10 tables & needed ovens: 
+
+Total 293 pizza have been sold today.
+The average waiting time for the first pizza is 9 minute(s).
+The max waiting time for the first pizza is 9 minute(s).
+Maximum time a party occupies a table is 30 minute(s).
+Total 118 part(ies) and total 407 guest(s) have been served
+Largest number of parties waiting for a table is 106.
+Total 38 oven(s) have been used.
